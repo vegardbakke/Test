@@ -1,5 +1,5 @@
 This is the original file.
 
-It represents the mein branch.
+It represents the main branch.
 
-Release 1
+Release 1.1
